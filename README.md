@@ -1,86 +1,281 @@
-<!-- Waving hand animation -->
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manish Kumar
-</h1>
+<div align="center">
 
-<!-- Typing effect -->
-<p align="center">
-  <a href="https://github.com/Manishburnwal">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=🚀+MERN+%26+Fullstack+Developer;💻+Java+%26+DSA+Enthusiast;🔗+Blockchain+Explorer;🏆+Hackathon+Winner;📊+AI+%26+Data+Analytics+Learner">
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Manish%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20Next.js%20%7C%20Agentic%20AI%20%7C%20System%20Design&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-## 👨‍💻 About Me
-- 🎓 3rd Year Computer Science Student  
-- 💻 Passionate about **Web Development, AI & Blockchain**  
-- 🏆 Winner of **AI: Code the Future Hackathon** & **Hack4Bengal 4.0**  
-- 🔭 Currently learning **Backend Development (Node.js, MongoDB, Express.js)**  
-- ⚡ Exploring **AI-Powered Applications & Blockchain Development**  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;1050%2B+DSA+problems+solved;Exploring+Agentic+AI+with+LangChain+%26+LangGraph;Designing+distributed%2C+fault-tolerant+systems;2x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏆-2x_Hackathon_Winner-6366f1?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/🎓-Final_Year_CSE-6366f1?style=for-the-badge&labelColor=0f172a"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LeetCode-650%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-300%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Codeforces-100%2B_Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0f172a"/>
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Manish Kumar
+role: Full-Stack Developer & CS Final-Year Student
+focus:
+  - Scalable, production-ready web applications
+  - Data Structures & Algorithms mastery
+  - Generative AI & Agentic AI systems
+  - Low-Level & High-Level System Design
+currently_building: AI-powered, distributed-systems-aware products
+fun_fact: I ship faster than I sleep 🚀
+```
+
+- 🎓 Final-year **B.Tech CSE** student
+- 💻 Full-Stack Developer — **MERN, Next.js & TypeScript**
+- ☕ Strong foundation in **Java & Data Structures and Algorithms**
+- 🧩 **650+ problems** on LeetCode · **300+** on GeeksforGeeks · **100+** on Codeforces
+- 🤖 Building AI apps with **LangChain & LangGraph**
+- 🏗️ Learning **Low-Level & High-Level System Design**
+- 🐳 Comfortable with **Docker, Redis & backend infrastructure**
+- 🏆 **Hack4Bengal 4.0 Winner** — Civic Auth Track
+
+<br/>
 
 ## 🛠️ Tech Stack
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
 
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
 
----
+**Frontend**
 
-## 🏆 Achievements
-- 🥇 Winner of **AI: Code the Future Hackathon (2024)**  
-- 🥇 Winner of **Hack4Bengal 4.0**  
-- 🌟 Built projects like:  
-  - **Food Delivery App** 🍔  
-  - **eCommerce App** 🛒  
-  - **Music App with Playlists** 🎵  
-  - **Vybe - Insta Clone** 📸  
-  - **AI Resume Builder & AI Stock Predictor** 🤖  
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
 
----
+**Backend & Infra**
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manishburnwal&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishburnwal&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishburnwal&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,redis,nginx,git,github,postman" />
 
----
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧩 Backend
+- REST APIs & API Design
+- Authentication & Authorization
+- JWT · Google OAuth
+- Backend Architecture
+
+### 🤖 AI & Agentic AI
+- Generative AI · RAG
+- **LangChain** · **LangGraph**
+- AI Agents & Tool Calling
+- Vector Databases
+- Prompt Engineering
+- Google Gemini API
+
+</td>
+<td valign="top" width="50%">
+
+### 🏗️ System Design
+- HLD & LLD
+- Distributed Systems
+- Microservices · API Gateway
+- Load Balancing · Sharding
+- Caching · Message Queues
+- Rate Limiting · Fault Tolerance
+
+### ⚡ Infrastructure
+- Docker · Redis · Nginx
+- BullMQ · Message Queues
+- API Caching · OTP Storage
+- CI/CD fundamentals
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered LMS
+Full-stack Learning Management System with AI-driven smart search.
+
+**Tech:** MERN · Gemini API · Redux Toolkit · Google OAuth · Razorpay
+
+- 🔍 AI-powered smart search using Gemini
+- 🔐 Google OAuth authentication
+- 💳 Razorpay payment integration
+- 👨‍🎓 Student & instructor workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 GrowMint — AI Sales Platform
+AI-powered platform assisting businesses with sales & marketing workflows.
+
+**Tech:** Next.js · TypeScript · Gemini API
+
+- 🤖 AI-powered sales tools
+- 📈 Marketing assistance
+- ⚡ Modern Next.js architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📸 Vybe — Social Media Platform
+Instagram-inspired social app with real-time features.
+
+**Tech:** MongoDB · Express · React · Node · Socket.io · Cloudinary · JWT
+
+- 📷 Image & post sharing, Reels
+- 💬 Real-time messaging via Socket.io
+- ☁️ Cloudinary media storage
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Personal Finance Tracker
+Full-stack app for tracking personal income & expenses.
+
+**Tech:** React · Vite · Node · Express · MongoDB Atlas
+
+- 💵 Income & expense tracking
+- 📊 Financial overview dashboard
+- 🔐 Secure authentication
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧠 Data Structures & Algorithms
+
+<div align="center">
+
+![Arrays](https://img.shields.io/badge/-Arrays_%26_Strings-1e293b?style=flat-square)
+![Hashing](https://img.shields.io/badge/-Hashing-1e293b?style=flat-square)
+![LinkedList](https://img.shields.io/badge/-Linked_Lists-1e293b?style=flat-square)
+![Stacks](https://img.shields.io/badge/-Stacks_%26_Queues-1e293b?style=flat-square)
+![Trees](https://img.shields.io/badge/-Trees_%26_BST-1e293b?style=flat-square)
+![Recursion](https://img.shields.io/badge/-Recursion_%26_Backtracking-1e293b?style=flat-square)
+![BinarySearch](https://img.shields.io/badge/-Binary_Search-1e293b?style=flat-square)
+![Greedy](https://img.shields.io/badge/-Greedy-1e293b?style=flat-square)
+![DP](https://img.shields.io/badge/-Dynamic_Programming-1e293b?style=flat-square)
+![Graphs](https://img.shields.io/badge/-Graph_Algorithms-1e293b?style=flat-square)
+![Dijkstra](https://img.shields.io/badge/-Dijkstra-1e293b?style=flat-square)
+![DSU](https://img.shields.io/badge/-DSU-1e293b?style=flat-square)
+![SegTree](https://img.shields.io/badge/-Segment_Trees-1e293b?style=flat-square)
+![KMP](https://img.shields.io/badge/-KMP_%2F_LPS-1e293b?style=flat-square)
+![LIS](https://img.shields.io/badge/-LIS-1e293b?style=flat-square)
+
+### 🏆 1050+ problems solved — 650+ LeetCode · 300+ GeeksforGeeks · 100+ Codeforces
+
+</div>
+
+<br/>
+
+## 🏗️ System Design Journey
+
+```mermaid
+flowchart TD
+    A[Client] --> B[Load Balancer]
+    B --> C[API Gateway]
+    C --> D[Backend Services]
+    D --> E[(Redis Cache)]
+    D --> F[Message Queue]
+    D --> G[(Database)]
+    E --> H[Scalable Infrastructure]
+    F --> H
+    G --> H
+```
+
+**Exploring:** Scalability · Availability · CAP Theorem · SQL vs NoSQL · Indexing · Replication · Sharding · Event-Driven Architecture · Distributed Systems
+
+<br/>
+
+## 🤖 Agentic AI Journey
+
+```mermaid
+flowchart LR
+    A[LLMs] --> B[Tool Calling]
+    B --> C[AI Agents]
+    C --> D[LangChain]
+    D --> E[LangGraph]
+    E --> F[Stateful Agentic Workflows]
+    F --> G[Production AI Systems]
+```
+
+<br/>
+
+## 📚 Currently Learning
+
+<div align="center">
+
+`Advanced DSA` → `System Design` → `Scalable Backend Architecture` → `Generative AI` → `LangChain` → `LangGraph` → `Agentic AI` → `Production-Ready AI Systems`
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/manish-kumar-a3205428b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Manishburnwal" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
----
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Manishburnwal&label=Profile+Views&color=brightgreen&style=flat" alt="views" />
-</p>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="YOUR_GFG_URL"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 Build. Learn. Scale. Repeat. 🚀
+
+⭐ Feel free to explore my repositories and connect with me!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
