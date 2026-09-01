@@ -23,6 +23,10 @@
 
 <br/>
 
+I'm a **Final-year Computer Science & Engineering student** passionate about building scalable, production-ready web applications and intelligent AI-powered systems. I enjoy turning ideas into real-world products, solving challenging **Data Structures & Algorithms** problems, and exploring **Generative AI, Agentic AI, and scalable system architecture**.
+
+<br/>
+
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -38,13 +42,16 @@ fun_fact: I ship faster than I sleep 🚀
 ```
 
 - 🎓 Final-year **B.Tech CSE** student
-- 💻 Full-Stack Developer — **MERN, Next.js & TypeScript**
+- 💻 Full-Stack Developer specializing in **MERN, Next.js & TypeScript**
 - ☕ Strong foundation in **Java & Data Structures and Algorithms**
 - 🧩 **650+ problems** on LeetCode · **300+** on GeeksforGeeks · **100+** on Codeforces
-- 🤖 Building AI apps with **LangChain & LangGraph**
+- 🤖 Exploring **Generative AI & Agentic AI**
+- 🧠 Building AI applications using **LangChain & LangGraph**
 - 🏗️ Learning **Low-Level & High-Level System Design**
-- 🐳 Comfortable with **Docker, Redis & backend infrastructure**
-- 🏆 **Hack4Bengal 4.0 Winner** — Civic Auth Track
+- 🐳 Experienced with **Docker, Redis & backend infrastructure**
+- ⚡ Interested in building **scalable and distributed systems**
+- 🏆 **Hack4Bengal 4.0 Winner — Civic Auth Track**
+- 🚀 Always learning, building, and improving
 
 <br/>
 
@@ -81,26 +88,35 @@ fun_fact: I ship faster than I sleep 🚀
 ### 🤖 AI & Agentic AI
 - Generative AI · RAG
 - **LangChain** · **LangGraph**
-- AI Agents & Tool Calling
+- AI Agents & Agentic Workflows
+- Tool Calling
 - Vector Databases
 - Prompt Engineering
+- LLM Integration
+- AI-powered Search
+- Multi-step AI Workflows
 - Google Gemini API
 
 </td>
 <td valign="top" width="50%">
 
 ### 🏗️ System Design
-- HLD & LLD
+- High-Level Design (HLD)
+- Low-Level Design (LLD)
 - Distributed Systems
+- Scalable Backend Architecture
 - Microservices · API Gateway
-- Load Balancing · Sharding
+- Load Balancing · Horizontal Scaling
+- Database Replication · Sharding
 - Caching · Message Queues
 - Rate Limiting · Fault Tolerance
+- API Design
 
 ### ⚡ Infrastructure
 - Docker · Redis · Nginx
 - BullMQ · Message Queues
-- API Caching · OTP Storage
+- API Caching · Rate Limiting
+- OTP Storage
 - CI/CD fundamentals
 
 </td>
@@ -123,6 +139,8 @@ Full-stack Learning Management System with AI-driven smart search.
 - 🔍 AI-powered smart search using Gemini
 - 🔐 Google OAuth authentication
 - 💳 Razorpay payment integration
+- 📚 Course management
+- ⚡ Redux Toolkit state management
 - 👨‍🎓 Student & instructor workflows
 
 </td>
@@ -136,6 +154,7 @@ AI-powered platform assisting businesses with sales & marketing workflows.
 - 🤖 AI-powered sales tools
 - 📈 Marketing assistance
 - ⚡ Modern Next.js architecture
+- 🧠 Gemini-powered AI functionality
 
 </td>
 </tr>
@@ -149,6 +168,7 @@ Instagram-inspired social app with real-time features.
 
 - 📷 Image & post sharing, Reels
 - 💬 Real-time messaging via Socket.io
+- 🔐 JWT authentication
 - ☁️ Cloudinary media storage
 
 </td>
@@ -162,6 +182,7 @@ Full-stack app for tracking personal income & expenses.
 - 💵 Income & expense tracking
 - 📊 Financial overview dashboard
 - 🔐 Secure authentication
+- ⚡ RESTful backend APIs
 
 </td>
 </tr>
@@ -170,6 +191,8 @@ Full-stack app for tracking personal income & expenses.
 <br/>
 
 ## 🧠 Data Structures & Algorithms
+
+I regularly practice DSA and competitive programming to strengthen my problem-solving and algorithmic thinking.
 
 <div align="center">
 
@@ -184,6 +207,8 @@ Full-stack app for tracking personal income & expenses.
 ![DP](https://img.shields.io/badge/-Dynamic_Programming-1e293b?style=flat-square)
 ![Graphs](https://img.shields.io/badge/-Graph_Algorithms-1e293b?style=flat-square)
 ![Dijkstra](https://img.shields.io/badge/-Dijkstra-1e293b?style=flat-square)
+![BellmanFord](https://img.shields.io/badge/-Bellman--Ford-1e293b?style=flat-square)
+![FloydWarshall](https://img.shields.io/badge/-Floyd--Warshall-1e293b?style=flat-square)
 ![DSU](https://img.shields.io/badge/-DSU-1e293b?style=flat-square)
 ![SegTree](https://img.shields.io/badge/-Segment_Trees-1e293b?style=flat-square)
 ![KMP](https://img.shields.io/badge/-KMP_%2F_LPS-1e293b?style=flat-square)
@@ -195,7 +220,17 @@ Full-stack app for tracking personal income & expenses.
 
 <br/>
 
+## 🏆 Achievements
+
+- 🥇 **Hack4Bengal 4.0 — Winner** · *Civic Auth Track*
+- 🥇 **2× Hackathon Winner**
+- 💻 **1050+ DSA Problems Solved** (LeetCode, GeeksforGeeks & Codeforces)
+
+<br/>
+
 ## 🏗️ System Design Journey
+
+Currently exploring how large-scale applications are designed and built.
 
 ```mermaid
 flowchart TD
@@ -210,11 +245,13 @@ flowchart TD
     G --> H
 ```
 
-**Exploring:** Scalability · Availability · CAP Theorem · SQL vs NoSQL · Indexing · Replication · Sharding · Event-Driven Architecture · Distributed Systems
+**Exploring:** Scalability · Availability · Reliability · CAP Theorem · Database Design · SQL vs NoSQL · Indexing · Caching · Replication · Sharding · Load Balancing · Rate Limiting · Message Queues · Microservices · Event-Driven Architecture · Distributed Systems
 
 <br/>
 
 ## 🤖 Agentic AI Journey
+
+I'm particularly interested in building AI systems that can **reason, use tools, maintain state, and execute multi-step workflows**.
 
 ```mermaid
 flowchart LR
@@ -235,6 +272,8 @@ flowchart LR
 `Advanced DSA` → `System Design` → `Scalable Backend Architecture` → `Generative AI` → `LangChain` → `LangGraph` → `Agentic AI` → `Production-Ready AI Systems`
 
 </div>
+
+My goal is to combine **strong software engineering fundamentals with modern AI capabilities** to build intelligent and scalable applications.
 
 <br/>
 
